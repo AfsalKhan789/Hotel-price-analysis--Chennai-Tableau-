@@ -33,13 +33,6 @@ It aims to uncover insights into how customer ratings and location influence hot
 ### 📸 Dashboard Preview
 ![Hotel Dashboard Screenshot](screenshots/dashboard.png)
 
----
-
-### 🚀 How to View
-You can view the interactive version on **Tableau Public**:  
-👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/your-link-here)
-
-*(Replace the link above with your Tableau Public link once uploaded.)*
 
 ---
 
